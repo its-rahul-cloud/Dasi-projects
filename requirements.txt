@@ -2,10 +2,11 @@ absl-py==1.2.0
 astunparse==1.6.3
 bcrypt==3.2.0
 blinker==1.4
+
+
 cachetools==5.2.0
 certifi==2020.6.20
 chardet==4.0.0
-chrome-gnome-shell==0.0.0
 click==8.0.3
 colorama==0.4.4
 command-not-found==0.3
